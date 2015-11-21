@@ -1,4 +1,4 @@
-import java.util.Locale.Category;
+
 
 public class MarkupCalculator {
 	//Declaring constants for different markup rates
